@@ -28,7 +28,7 @@ public class Frame {
 
     public boolean isComplete() {
         return isComplete;
-    }
+    }//
 
     public int getScore() {
         return rolls[0] + rolls[1] + rolls[2];
